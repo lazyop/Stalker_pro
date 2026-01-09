@@ -22,6 +22,20 @@ Designed with a **Glassmorphic UI** and streamlined backend, it works flawlessly
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🔐 Login Page
+<img src="https://i.ibb.co/zKT6bDB/login.png" alt="Login Page" width="700">
+
+### 📊 Dashboard
+<img src="https://i.ibb.co/7dsGgsj6/dashboard.png" alt="Dashboard" width="700">
+
+</div>
+
+---
+
 ## ✨ Key Features
 
 - **🌐 Universal Compatibility:** Works perfectly on **local servers** (Localhost/XAMPP), **Android Servers** (KSWEB), and **Shared Hosting**.
@@ -149,4 +163,7 @@ You can change the `LOGO_URL` constant in `config.php` to use your own custom lo
 
 ### Developed with ❤️ by LazyyXD
 
+[![Telegram](https://img.shields.io/badge/Telegram-@lazyyXD-blue?style=for-the-badge&logo=telegram)](https://t.me/lazyyXD)
+
 </div>
+
