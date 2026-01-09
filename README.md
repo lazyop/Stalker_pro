@@ -38,10 +38,8 @@ This script generates strictly formatted M3U playlists designed for **maximum co
 | :--- | :---: | :--- |
 | **TiviMate** | ✅ **Perfect** | Highly Recommended. Full EPG & faster loading. |
 | **OTT Navigator** | ✅ **Perfect** | Excellent support for archives and catch-up. |
-| **Televizo** | ✅ **Great** | Works well with the generated playlist format. |
-| **VLC / Others** | ⚠️ **Limited** | Basic playback only. Not recommended for daily use. |
 
-> **Note:** For the best experience, please use **TiviMate** or **OTT Navigator**.
+> **Note:** This script is **strictly optimized** for TiviMate and OTT Navigator. Other players may not work correctly.
 
 ---
 
