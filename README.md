@@ -81,6 +81,8 @@ Before you begin, ensure your server meets these minimum requirements:
 
 ## 🛠️ Full Installation Guide
 
+[![Download ZIP](https://img.shields.io/badge/📦_Download_ZIP-Click_Here-blue?style=for-the-badge&logo=github)](https://github.com/lazyop/Stalker_pro/archive/refs/heads/main.zip)
+
 ### Option 1: Web Hosting (cPanel / Shared Hosting)
 
 1.  **Upload Files:**
