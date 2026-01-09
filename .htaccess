@@ -1,7 +1,0 @@
-# Security: Deny all access to data directory
-deny from all
-
-# Alternatively for Apache 2.4+:
-# <IfModule mod_authz_core.c>
-#     Require all denied
-# </IfModule>
