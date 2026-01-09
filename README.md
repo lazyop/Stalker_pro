@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-Personal_Use_Only-orange?style=for-the-badge)
 ![Developer](https://img.shields.io/badge/Developed_By-LazyyXD-blueviolet?style=for-the-badge)
 
-[![Download ZIP](https://img.shields.io/badge/📦_Download_ZIP-Click_Here-blue?style=for-the-badge&logo=github)](https://github.com/LazyyXD/Stalker_pro/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/📦_Download_ZIP-Click_Here-blue?style=for-the-badge&logo=github)](https://github.com/lazyop/Stalker_pro/archive/refs/heads/main.zip)
 
 </div>
 
