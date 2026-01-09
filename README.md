@@ -8,6 +8,8 @@
 ![License](https://img.shields.io/badge/License-Personal_Use_Only-orange?style=for-the-badge)
 ![Developer](https://img.shields.io/badge/Developed_By-LazyyXD-blueviolet?style=for-the-badge)
 
+[![Download ZIP](https://img.shields.io/badge/📦_Download_ZIP-Click_Here-blue?style=for-the-badge&logo=github)](https://github.com/LazyyXD/Stalker_pro/archive/refs/heads/main.zip)
+
 </div>
 
 ---
@@ -94,6 +96,8 @@ Before you begin, ensure your server meets these minimum requirements:
 
 ### Option 2: Localhost (XAMPP / Windows)
 
+> 📥 **Download XAMPP:** [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)
+
 1.  **Place Files:**
     *   Copy the project files into `C:\xampp\htdocs\Stalker_pro`.
 2.  **Start Apache:**
@@ -102,6 +106,8 @@ Before you begin, ensure your server meets these minimum requirements:
     *   Open your browser and type: `http://localhost/Stalker_pro`.
 
 ### Option 3: Android (KSWEB)
+
+> 📥 **Download KSWEB:** [https://tsneh.vercel.app/ksweb_3.987.apk](https://tsneh.vercel.app/ksweb_3.987.apk)
 
 1.  **Copy Files:**
     *   Move the project files to your server root (usually `htdocs` on your internal storage).
